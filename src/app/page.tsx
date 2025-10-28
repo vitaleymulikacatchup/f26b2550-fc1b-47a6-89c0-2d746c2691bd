@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { ThemeProvider } from "@/providers/ThemeProvider";
 import NavbarLayoutFloatingOverlay from '@/components/navbar/NavbarLayoutFloatingOverlay/NavbarLayoutFloatingOverlay';
@@ -158,8 +158,7 @@ export default function Home() {
               role: "CTO",
               company: "InnovateCorp",
               rating: 5,
-              imageSrc: "https://images.pexels.com/photos/12885861/pexels-photo-12885861.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              text: "TechFlow transformed our infrastructure completely. Their cloud solutions are robust and scalable."
+              imageSrc: "https://images.pexels.com/photos/12885861/pexels-photo-12885861.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
             },
             {
               id: "2",
@@ -167,8 +166,7 @@ export default function Home() {
               role: "VP Technology",
               company: "GrowthLab",
               rating: 5,
-              imageSrc: "https://images.pexels.com/photos/3867837/pexels-photo-3867837.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              text: "Outstanding cybersecurity implementation. We feel completely protected with their advanced measures."
+              imageSrc: "https://images.pexels.com/photos/3867837/pexels-photo-3867837.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
             },
             {
               id: "3",
@@ -176,8 +174,7 @@ export default function Home() {
               role: "Founder",
               company: "StartupXYZ",
               rating: 5,
-              imageSrc: "https://images.pexels.com/photos/3755824/pexels-photo-3755824.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              text: "The mobile app they developed exceeded our expectations. User engagement increased by 300%."
+              imageSrc: "https://images.pexels.com/photos/3755824/pexels-photo-3755824.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
             },
             {
               id: "4",
@@ -185,8 +182,7 @@ export default function Home() {
               role: "IT Director",
               company: "TechVentures",
               rating: 5,
-              imageSrc: "https://images.pexels.com/photos/7793637/pexels-photo-7793637.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              text: "Their AI solutions optimized our operations beyond what we thought possible. Truly innovative."
+              imageSrc: "https://images.pexels.com/photos/7793637/pexels-photo-7793637.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
             }
           ]}
         />
